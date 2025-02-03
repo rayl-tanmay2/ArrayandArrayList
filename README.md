@@ -1,26 +1,9 @@
-# ArrayandArrayList
-# Author
-Tanmay Joshi
-
-23070126134
-
-AIML B3
-
-# Overview
-This repository contains Java programs that demonstrate fundamental operations on arrays and ArrayLists. The programs cover essential concepts such as separating even and odd numbers, finding neighboring numbers with the smallest distance, and converting between arrays and ArrayLists.
-
-# Features
-1) Separate Even and Odd Numbers: Accepts numbers from the user and stores them in separate arrays for even and odd numbers.
-
-2) Find Closest Neighbors: Identifies two neighboring numbers with the smallest difference and returns the index of the first number.
-
-3) Convert Between Array and ArrayList: Demonstrates conversion of an array into an ArrayList and vice versa.
 
 # Array_and_ArrayList
 <html>
-    <p><strong>Author:</strong> Kashvi Singh</p>
-    <p><strong>PRN:</strong> 23070126057</p>
-    <p><strong>Batch:</strong> AIML A3</p>
+    <p><strong>Author:</strong> Tanmay Joshi </p>
+    <p><strong>PRN:</strong> 23070126134</p>
+    <p><strong>Batch:</strong> AIML B3</p>
     <h2>Overview</h2>
     <p>This repository contains Java programs that demonstrate operations on arrays and ArrayLists, including:</p>
     <ul>
